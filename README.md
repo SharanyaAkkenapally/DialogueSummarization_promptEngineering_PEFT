@@ -1,0 +1,1 @@
+This is a dialogue summarization model utilizing LLM using Hugging Face Dataset, specifically the Flan-T5 base model. Employed prompt engineering with In-Context Learning and hyperparameter tuning for relevant summaries. Used LoRA for Parameter Efficient Fine Tuning, which resulted in updation of only 2-12% of original parameters
